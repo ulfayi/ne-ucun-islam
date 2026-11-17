@@ -14,6 +14,6 @@ npm run dev
 ## Deploy
 
 - **Netlify:** repozitoriyanı qoşun; build command `npm run build`, publish directory `.`. `netlify.toml` hazırdır.
-- **Vercel:** repozitoriyanı import edin; build command `npm run build`, output directory `.`. SPA keçidləri `vercel.json` ilə yönləndirilir.
+- **Vercel:** repozitoriyanı import edin; build command `npm run build`, output directory `dist`. SPA keçidləri `vercel.json` ilə yönləndirilir.
 
 Orijinal DOCX fayllar `sources/` qovluğunda qalır və sayt tərəfindən dərc edilmir. `public/content.json` yalnız məqalə mətni üçün qurulmuş çıxarışdır.
