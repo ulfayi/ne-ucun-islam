@@ -1,0 +1,11 @@
+{
+  "name": "ne-ucun-islam",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "extract": "powershell -ExecutionPolicy Bypass -File scripts/extract-content.ps1",
+    "dev": "npx serve .",
+    "build": "node -e \"const fs=require('fs');if(!fs.existsSync('public/content.json')){console.error('public/content.json tapılmadı. Lokal olaraq npm run extract işlədin.');process.exit(1)}console.log('Statik məzmun deploy üçün hazırdır.')\"",
+    "test": "node --test tests/app.test.mjs"
+  }
+}

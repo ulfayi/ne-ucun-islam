@@ -1,0 +1,38 @@
+{
+    "sourceDocuments":  4,
+    "extractedArticles":  4,
+    "extractedContentBlocks":  215,
+    "completeness":  "Tam sənəd mətni paraqraf səviyyəsində çıxarıldı",
+    "documents":  [
+                      {
+                          "originalFilename":  "Nə üçün məhz İslam_Sahib Əsədov.docx",
+                          "title":  "Nə üçün məhz İslam?",
+                          "paragraphCount":  72,
+                          "author":  "Sahib Əsədov"
+                      },
+                      {
+                          "originalFilename":  "Nə üçün məhz İslamı seçməliyik_Sahib Əsədov.docx",
+                          "title":  "Nə üçün məhz İslamı seçməliyik?",
+                          "paragraphCount":  38,
+                          "author":  "Sahib Əsədov"
+                      },
+                      {
+                          "originalFilename":  "Nə üçün İslam_Organic Elm.docx",
+                          "title":  "Nə üçün İslam – 1: YARADILIŞ",
+                          "paragraphCount":  77,
+                          "author":  "Müəllif göstərilməyib"
+                      },
+                      {
+                          "originalFilename":  "İSLAM DİNİ NƏ ÜÇÜN VAR.docx",
+                          "title":  "İSLAM DİNİ NƏ ÜÇÜN VAR? MƏQSƏDLƏRİ NƏDİR?",
+                          "paragraphCount":  28,
+                          "author":  "Ayxan Yaquboğlu"
+                      }
+                  ],
+    "ambiguousReferences":  [
+
+                            ],
+    "missingSections":  [
+
+                        ]
+}

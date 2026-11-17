@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 900" width="760" height="900" role="img" aria-label="Nə üçün İslam">
+  <title>Nə üçün İslam — stacked logo</title>
+  <defs>
+    <radialGradient id="sbg" cx="50%" cy="30%" r="82%">
+      <stop offset="0%" stop-color="#1E7358"/>
+      <stop offset="46%" stop-color="#0C4033"/>
+      <stop offset="100%" stop-color="#04201A"/>
+    </radialGradient>
+    <linearGradient id="sgold" x1="0.05" y1="0" x2="0.45" y2="1">
+      <stop offset="0%" stop-color="#F3E1A8"/>
+      <stop offset="42%" stop-color="#D6B164"/>
+      <stop offset="100%" stop-color="#9C7A33"/>
+    </linearGradient>
+    <radialGradient id="sniche" cx="50%" cy="18%" r="105%">
+      <stop offset="0%" stop-color="#2A9070"/>
+      <stop offset="52%" stop-color="#146049"/>
+      <stop offset="100%" stop-color="#0A3A2D"/>
+    </radialGradient>
+    <radialGradient id="shalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F3E1A8" stop-opacity="0.16"/>
+      <stop offset="65%" stop-color="#F3E1A8" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#F3E1A8" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="sfield"><circle cx="256.0" cy="256.0" r="213"/></clipPath>
+    <clipPath id="sniche"><path d="M 158.00,384.00 L 158.00,296.00 A 154.80,154.80 0 0,1 256.00,152.00 A 154.80,154.80 0 0,1 354.00,296.00 L 354.00,384.00 Z"/></clipPath>
+  </defs>
+  <g transform="translate(165.0,80) scale(0.83984)">
+  <circle cx="256.0" cy="256.0" r="256.0" fill="url(#sbg)"/>
+  <g clip-path="url(#sfield)" stroke="#F3E1A8" stroke-opacity="0.055" stroke-width="1">
+  <line x1="374.00" y1="256.00" x2="470.00" y2="256.00"/>
+  <line x1="373.35" y1="268.33" x2="468.83" y2="278.37"/>
+  <line x1="371.42" y1="280.53" x2="465.32" y2="300.49"/>
+  <line x1="368.22" y1="292.46" x2="459.53" y2="322.13"/>
+  <line x1="363.80" y1="303.99" x2="451.50" y2="343.04"/>
+  <line x1="358.19" y1="315.00" x2="441.33" y2="363.00"/>
+  <line x1="351.46" y1="325.36" x2="429.13" y2="381.79"/>
+  <line x1="343.69" y1="334.96" x2="415.03" y2="399.19"/>
+  <line x1="334.96" y1="343.69" x2="399.19" y2="415.03"/>
+  <line x1="325.36" y1="351.46" x2="381.79" y2="429.13"/>
+  <line x1="315.00" y1="358.19" x2="363.00" y2="441.33"/>
+  <line x1="303.99" y1="363.80" x2="343.04" y2="451.50"/>
+  <line x1="292.46" y1="368.22" x2="322.13" y2="459.53"/>
+  <line x1="280.53" y1="371.42" x2="300.49" y2="465.32"/>
+  <line x1="268.33" y1="373.35" x2="278.37" y2="468.83"/>
+  <line x1="256.00" y1="374.00" x2="256.00" y2="470.00"/>
+  <line x1="243.67" y1="373.35" x2="233.63" y2="468.83"/>
+  <line x1="231.47" y1="371.42" x2="211.51" y2="465.32"/>
+  <line x1="219.54" y1="368.22" x2="189.87" y2="459.53"/>
+  <line x1="208.01" y1="363.80" x2="168.96" y2="451.50"/>
+  <line x1="197.00" y1="358.19" x2="149.00" y2="441.33"/>
+  <line x1="186.64" y1="351.46" x2="130.21" y2="429.13"/>
+  <line x1="177.04" y1="343.69" x2="112.81" y2="415.03"/>
+  <line x1="168.31" y1="334.96" x2="96.97" y2="399.19"/>
+  <line x1="160.54" y1="325.36" x2="82.87" y2="381.79"/>
+  <line x1="153.81" y1="315.00" x2="70.67" y2="363.00"/>
+  <line x1="148.20" y1="303.99" x2="60.50" y2="343.04"/>
+  <line x1="143.78" y1="292.46" x2="52.47" y2="322.13"/>
+  <line x1="140.58" y1="280.53" x2="46.68" y2="300.49"/>
+  <line x1="138.65" y1="268.33" x2="43.17" y2="278.37"/>
+  <line x1="138.00" y1="256.00" x2="42.00" y2="256.00"/>
+  <line x1="138.65" y1="243.67" x2="43.17" y2="233.63"/>
+  <line x1="140.58" y1="231.47" x2="46.68" y2="211.51"/>
+  <line x1="143.78" y1="219.54" x2="52.47" y2="189.87"/>
+  <line x1="148.20" y1="208.01" x2="60.50" y2="168.96"/>
+  <line x1="153.81" y1="197.00" x2="70.67" y2="149.00"/>
+  <line x1="160.54" y1="186.64" x2="82.87" y2="130.21"/>
+  <line x1="168.31" y1="177.04" x2="96.97" y2="112.81"/>
+  <line x1="177.04" y1="168.31" x2="112.81" y2="96.97"/>
+  <line x1="186.64" y1="160.54" x2="130.21" y2="82.87"/>
+  <line x1="197.00" y1="153.81" x2="149.00" y2="70.67"/>
+  <line x1="208.01" y1="148.20" x2="168.96" y2="60.50"/>
+  <line x1="219.54" y1="143.78" x2="189.87" y2="52.47"/>
+  <line x1="231.47" y1="140.58" x2="211.51" y2="46.68"/>
+  <line x1="243.67" y1="138.65" x2="233.63" y2="43.17"/>
+  <line x1="256.00" y1="138.00" x2="256.00" y2="42.00"/>
+  <line x1="268.33" y1="138.65" x2="278.37" y2="43.17"/>
+  <line x1="280.53" y1="140.58" x2="300.49" y2="46.68"/>
+  <line x1="292.46" y1="143.78" x2="322.13" y2="52.47"/>
+  <line x1="303.99" y1="148.20" x2="343.04" y2="60.50"/>
+  <line x1="315.00" y1="153.81" x2="363.00" y2="70.67"/>
+  <line x1="325.36" y1="160.54" x2="381.79" y2="82.87"/>
+  <line x1="334.96" y1="168.31" x2="399.19" y2="96.97"/>
+  <line x1="343.69" y1="177.04" x2="415.03" y2="112.81"/>
+  <line x1="351.46" y1="186.64" x2="429.13" y2="130.21"/>
+  <line x1="358.19" y1="197.00" x2="441.33" y2="149.00"/>
+  <line x1="363.80" y1="208.01" x2="451.50" y2="168.96"/>
+  <line x1="368.22" y1="219.54" x2="459.53" y2="189.87"/>
+  <line x1="371.42" y1="231.47" x2="465.32" y2="211.51"/>
+  <line x1="373.35" y1="243.67" x2="468.83" y2="233.63"/>
+  </g>
+  <circle cx="256.0" cy="256.0" r="248" fill="none" stroke="#D6B164" stroke-opacity="0.85" stroke-width="3"/>
+  <circle cx="256.0" cy="256.0" r="239.5" fill="none" stroke="#F3E1A8" stroke-opacity="0.40" stroke-width="1"/>
+  <circle cx="256.0" cy="256.0" r="214" fill="none" stroke="#D6B164" stroke-opacity="0.50" stroke-width="1.3"/>
+  <circle cx="482.50" cy="256.00" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="480.56" cy="285.56" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="474.78" cy="314.62" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="465.26" cy="342.68" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="452.15" cy="369.25" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="435.69" cy="393.88" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="416.16" cy="416.16" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="393.88" cy="435.69" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="369.25" cy="452.15" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="342.68" cy="465.26" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="314.62" cy="474.78" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="285.56" cy="480.56" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="256.00" cy="482.50" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="226.44" cy="480.56" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="197.38" cy="474.78" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="169.32" cy="465.26" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="142.75" cy="452.15" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="118.12" cy="435.69" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="95.84" cy="416.16" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="76.31" cy="393.88" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="59.85" cy="369.25" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="46.74" cy="342.68" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="37.22" cy="314.62" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="31.44" cy="285.56" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="29.50" cy="256.00" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="31.44" cy="226.44" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="37.22" cy="197.38" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="46.74" cy="169.32" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="59.85" cy="142.75" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="76.31" cy="118.12" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="95.84" cy="95.84" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="118.12" cy="76.31" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="142.75" cy="59.85" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="169.32" cy="46.74" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="197.38" cy="37.22" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="226.44" cy="31.44" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="256.00" cy="29.50" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="285.56" cy="31.44" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="314.62" cy="37.22" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="342.68" cy="46.74" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="369.25" cy="59.85" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="393.88" cy="76.31" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="416.16" cy="95.84" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="435.69" cy="118.12" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="452.15" cy="142.75" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="465.26" cy="169.32" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="474.78" cy="197.38" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="480.56" cy="226.44" r="2" fill="#D6B164" fill-opacity="0.5"/>
+  <circle cx="256.0" cy="270" r="146" fill="url(#shalo)"/>
+  <path d="M 158.00,384.00 L 158.00,296.00 A 154.80,154.80 0 0,1 256.00,152.00 A 154.80,154.80 0 0,1 354.00,296.00 L 354.00,384.00 Z" fill="url(#sniche)" stroke="url(#sgold)" stroke-width="3"/>
+  <path d="M 167.00,384.00 L 167.00,296.00 A 143.88,143.88 0 0,1 256.00,163.00 A 143.88,143.88 0 0,1 345.00,296.00 L 345.00,384.00 Z" fill="none" stroke="#F3E1A8" stroke-opacity="0.28" stroke-width="1.1"/>
+  <circle cx="259.0" cy="262.0" r="118" fill="url(#shalo)" clip-path="url(#sniche)"/>
+  <line x1="126" y1="384" x2="386" y2="384" stroke="#D6B164" stroke-opacity="0.45" stroke-width="1.4"/>
+  <path d="M 251.25,212.39 A 50.00,50.00 0 1,0 251.25,311.61 A 55.00,55.00 0 1,1 251.25,212.39 Z" fill="url(#sgold)"/>
+  <path d="M 299.00,235.00 L 302.64,244.98 L 313.27,245.36 L 304.90,251.92 L 307.82,262.14 L 299.00,256.20 L 290.18,262.14 L 293.10,251.92 L 284.73,245.36 L 295.36,244.98 Z" fill="url(#sgold)"/>
+  <path d="M 256.00,136.50 L 257.61,142.12 L 262.72,139.28 L 259.88,144.39 L 265.50,146.00 L 259.88,147.61 L 262.72,152.72 L 257.61,149.88 L 256.00,155.50 L 254.39,149.88 L 249.28,152.72 L 252.12,147.61 L 246.50,146.00 L 252.12,144.39 L 249.28,139.28 L 254.39,142.12 Z" fill="url(#sgold)"/>
+  </g>
+  <line x1="190" y1="562" x2="570" y2="562" stroke="#D6B164" stroke-opacity="0.45" stroke-width="1.2"/>
+  <path d="M 182.00,558.80 L 185.20,562.00 L 182.00,565.20 L 178.80,562.00 Z" fill="#D6B164" fill-opacity="0.7"/>
+  <path d="M 578.00,558.80 L 581.20,562.00 L 578.00,565.20 L 574.80,562.00 Z" fill="#D6B164" fill-opacity="0.7"/>
+  <text x="383.75" y="624" text-anchor="middle" font-family="'Segoe UI Light','Segoe UI',Tahoma,sans-serif" font-size="38.0" letter-spacing="7.5" fill="#8A6A24">Nə üçün</text>
+  <text x="380.0" y="744" text-anchor="middle" font-family="Georgia,Cambria,'Times New Roman',serif" font-weight="700" font-size="132.0" letter-spacing="2" fill="#0A3126">İSLAM</text>
+  <text x="383.75" y="808" text-anchor="middle" font-family="'Simplified Arabic','Segoe UI',Arial,sans-serif" direction="rtl" font-size="34" fill="#8A6A24" fill-opacity="0.85">لماذا الإسلام</text>
+</svg>
